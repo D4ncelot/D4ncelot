@@ -1,6 +1,6 @@
-# :computer: Bievenidos a Mi Perfil :shipit:
+# :computer: Bievenidos a Mi Perfil :computer:
  
-## Sobre Mi
+## Sobre Mi :shipit:
 Mi nombre es Daniel, estudiante de Programacion, actualmente estoy estudiando **Python**, mis objetivos son la creacion de Programas y Videojuegos.
 Tambien conozco algo de diseño Web, aunque mi objetivo actual es aprender todo lo relacionado a Python (Especialmente, Pygame).
 
@@ -8,6 +8,22 @@ Tambien conozco algo de diseño Web, aunque mi objetivo actual es aprender todo 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
   </a>
 </p>
+
+## Lenguajes en Aprendizaje
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+  </a>
+</p>
+
+## :mailbox: Contacto :mailbox:
+
+:envelope: **Email**: [dancelot15@gmail.com](mailto:dancelot15@gmail.com)
+
+### Puedes ver mis trabajos en mas abajo, si tienes dudas puedes enviarme un mensaje.
+
+### ¡Gracias por pasar! :wave:
