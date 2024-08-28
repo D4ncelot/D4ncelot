@@ -20,6 +20,10 @@ Tambien conozco algo de diseño Web, aunque mi objetivo actual es aprender todo 
   </a>
 </p>
 
+## Mis Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4ncelot)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## :mailbox: Contacto :mailbox:
 
 :envelope: **Email**: [dancelot15@gmail.com](mailto:dancelot15@gmail.com)
